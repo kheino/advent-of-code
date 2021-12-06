@@ -9,7 +9,7 @@ Navigate to the root folder and type in the command line `dotnet run <day>`, wit
 Challenge | Completed
 :------------ | :-------------
 Day 1   |  :heavy_check_mark:
-Day 2   |  
+Day 2   |  :heavy_check_mark:
 Day 3   |  
 Day 4   |  
 Day 5   |  
