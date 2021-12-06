@@ -10,7 +10,7 @@ Challenge | Completed
 :------------ | :-------------
 Day 1   |  :heavy_check_mark:
 Day 2   |  :heavy_check_mark:
-Day 3   |  
+Day 3   |  :heavy_check_mark:
 Day 4   |  
 Day 5   |  
 Day 6   |  
