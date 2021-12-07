@@ -12,4 +12,7 @@ let main args =
     print "03.a" (Dec03.a())
     print "03.b" (Dec03.b())
 
+    print "04.a" (Dec04.a())
+    print "04.b" (Dec04.b())
+
     0
